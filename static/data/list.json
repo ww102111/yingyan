@@ -3,16 +3,16 @@
     "size": 4,
     "total": 4,
     "pois": [{
-        "city": "来宾市",
+        "city": "北京市",
         "create_time": "2014-10-17 10:46:11",
-        "district": "兴宾区",
+        "district": "北京市",
         "loc_time": 1413526633,
         "location": [
-            109.23276173322,
-            23.751021734754
+            115.23276173322,
+            39.751021734754
         ],
         "modify_time": "2014-10-17 14:17:01",
-        "province": "广西壮族自治区",
+        "province": "北京市",
         "title": null,
         "track_name": "唐G12001",
         "city_id": 202,
